@@ -11,7 +11,7 @@ class LoginPage extends StatefulWidget {
 }
 
 class _LoginPageState extends State<LoginPage> {
-  List<String> bgImgList = [
+  List<String> bgImgList =[
     'assets/images/bg1.png',
     'assets/images/bg2.png',
     'assets/images/bg3.png',
